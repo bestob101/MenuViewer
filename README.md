@@ -1,3 +1,3 @@
 # Oasys Menu
 
-link to menu: https://bestob101.github.io/MenuViewer/
+link to menu: https://bestob101.github.io/OasysMenu/
