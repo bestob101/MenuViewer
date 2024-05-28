@@ -1,4 +1,3 @@
-# MenuViewer
-A dynamic menu viewer
+# Oasys Menu
 
 link to menu: https://bestob101.github.io/MenuViewer/
